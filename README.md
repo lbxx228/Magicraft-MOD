@@ -13,6 +13,7 @@
 ## 📥 安装要求
 - 游戏版本：《魔法工艺》v1.2.5
 - 前置依赖：BepInEx 5.4.21+（必须先给游戏安装BepInEx）
+- BepInEx下载地址：https://thunderstore.io/c/magicraft/p/BepInEx/BepInExPack/
 
 ## 🛠️ 安装步骤
 1. 给《魔法工艺》安装BepInEx：下载BepInEx_x64_5.4.21.0，解压到游戏根目录（MagicCraft.exe同目录），启动游戏一次生成配置文件。
@@ -38,4 +39,5 @@ A2：大概率是BepInEx版本不匹配，推荐用BepInEx 5.4.21.0版本。
 
 ## 📄 许可证
 本模组采用MIT许可证开源，可自由修改、分发，禁止商用。
+
 
