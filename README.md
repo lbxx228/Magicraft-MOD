@@ -16,7 +16,7 @@
 
 ## 🛠️ 安装步骤
 1. 给《魔法工艺》安装BepInEx：下载BepInEx_x64_5.4.21.0，解压到游戏根目录（MagicCraft.exe同目录），启动游戏一次生成配置文件。
-2. 下载本模组的 `MonsterHpRatio.dll`
+2. 下载本模组的`MonsterHpRatio.zip`,解压后得到`MonsterHpRatio.dll`
 3. 将DLL复制到游戏根目录的 `BepInEx/Plugins/` 文件夹。
 4. 启动游戏，模组自动生效！
 
@@ -38,3 +38,4 @@ A2：大概率是BepInEx版本不匹配，推荐用BepInEx 5.4.21.0版本。
 
 ## 📄 许可证
 本模组采用MIT许可证开源，可自由修改、分发，禁止商用。
+
